@@ -8,7 +8,4 @@ services:
    build:
      context: ./two
    image: imgtwo
- three:
-   build:
-     context: ./three
-   image: imgthree   
+
